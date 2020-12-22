@@ -10,7 +10,7 @@
     "stylelint": "stylelint \"**/*.scss\""
   },
   "dependencies": {
-    "next": "10.0.3",
+    "next": "10.0.4",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
